@@ -1,1 +1,2 @@
 D:\Temp\Projects\ADO.NET\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\Temp\Темп\Developer\cinema\Cinema\bin\Debug\Cinema.exe.config
